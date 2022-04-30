@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise3.exe
+C:\Users\Asus\source\repos\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise3.deps.json
+C:\Users\Asus\source\repos\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.json
+C:\Users\Asus\source\repos\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\Asus\source\repos\Exercise2\Exercise2\bin\Debug\netcoreapp3.1\Exercise3.pdb
+C:\Users\Asus\source\repos\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise3.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\Asus\source\repos\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise3.pdb
+C:\Users\Asus\source\repos\Exercise2\Exercise2\obj\Debug\netcoreapp3.1\Exercise3.genruntimeconfig.cache
